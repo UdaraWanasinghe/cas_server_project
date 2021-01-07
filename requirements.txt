@@ -4,7 +4,7 @@ chardet==3.0.4
 Django==2.1.15
 django-cas-server==1.1.0
 idna==2.8
-lxml==4.4.2
+lxml==4.6.2
 pytz==2019.3
 requests==2.22.0
 requests-futures==1.0.0
